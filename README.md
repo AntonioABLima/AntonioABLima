@@ -34,8 +34,8 @@ Hello, I'm Antonio Alexandre Borges Lima, a 23-year-old brazilian enthusiast cur
 
 <h3>My stats</h3>
 <div style="display: flex; flex-direction: row;">
- <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api?username=AntonioABLima&show_icons=true&theme=radical" />
- <img style="height: auto; width: 36%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioABLima&theme=radical&layout=compact" />
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=AntonioABLima&show_icons=true&theme=radical" />
+ <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioABLima&theme=radical&layout=compact" />
 </div>
 
 #
