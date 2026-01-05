@@ -5,7 +5,7 @@
   <img  align="right" alt="profile views" title="Profile Views" src="https://komarev.com/ghpvc/?username=AntonioABLima&style=flat-square&color=blue&label=Profile%20Views&labelColor=1155ba" />
 </a>
 
-I run a [YouTube channel](https://www.youtube.com/@AntonioLima.)  where I post some weird tech projects I make for fun.
+I run a [YouTube channel](https://www.youtube.com/@tonimProgramas)  where I post some weird tech projects I make for fun.
 
 I really enjoy topics like Artificial Intelligence, Computer Vision, and Software Development in general.
 
