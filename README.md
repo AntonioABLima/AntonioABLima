@@ -9,6 +9,8 @@ I run a [YouTube channel](https://www.youtube.com/@tonimProgramas)  where I post
 
 I really enjoy topics like Artificial Intelligence, Computer Vision, and Software Development in general.
 
+If you want to see my attempt to mess with 3D objects inside JavaScript, check my [portfolio](https://antonioablima.github.io/my-portfolio/).
+
 #
 
 #### Where to find me
