@@ -1,6 +1,6 @@
 #  Hi There
 
-**`Software Developer looking for work :)`** **`YouTuber`** **`Student`** 
+**`Software Developer`** **`YouTuber`** **`Student`** 
 <a href="https://github.com/AntonioABLima">
   <img  align="right" alt="profile views" title="Profile Views" src="https://komarev.com/ghpvc/?username=AntonioABLima&style=flat-square&color=blue&label=Profile%20Views&labelColor=1155ba" />
 </a>
