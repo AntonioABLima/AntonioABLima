@@ -15,4 +15,4 @@ If you want to see my attempt to mess with 3D objects inside JavaScript, check m
 
 #### Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ant%C3%B4nio-alexandre-borges-lima-952519224/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AntonioLima)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@tonimProgramas)
